@@ -4,3 +4,4 @@ for i in arreglo:
     sum += 1
     print (arreglo [sum-1])
 print (sum)
+rbhntr
